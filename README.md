@@ -8,5 +8,5 @@ In this project, we have used a mono camera setup that only provides the spatial
 -  
 
 ## Contacts:
-* **Created by:[Pratyay Kumar](https://github.com/Pratyay211)**
-* **Email:[pratyay211kumar@gmail.com](https://pratyay211kumar@gmail.com)**
+* **Created by:[ Pratyay Kumar](https://github.com/Pratyay211)**
+* **Email:[ pratyay211kumar@gmail.com](https://pratyay211kumar@gmail.com)**
