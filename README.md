@@ -5,7 +5,7 @@ In this project, we have used a mono camera setup that only provides the spatial
 ![Output](https://github.com/Pratyay211/social-distance-monitoring/blob/main/output.gif)
 
 ### Paper
--  
+-  https://github.com/Pratyay211/Social-distance-monitoring/blob/main/Pratyay_Mtech_Thesis.pdf
 
 ## Contacts:
 * **Created by:[ Pratyay Kumar](https://github.com/Pratyay211)**
